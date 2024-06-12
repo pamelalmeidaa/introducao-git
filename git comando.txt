@@ -1,0 +1,5 @@
+git Init -> Criar o repositório local.
+git remote add origin -> "Link do githab"
+git Add .
+git commit -m "Mensagem do commit"
+git Push origin main
